@@ -1,0 +1,5 @@
+# Exercício 2 
+print("Conversor de Celsius para Fahrenheit")
+x = float(input("Valor Celsius:"))
+y = float(x*1.8+32)
+print("Fahrenheit =", y)
