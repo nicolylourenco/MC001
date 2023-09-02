@@ -1,4 +1,6 @@
-# Exercício 3, calculando o IMC
+# Exercício 3 - Calculadora de IMC (Índice de Massa Corporal)
+# Esse programa calcula o IMC de uma pessoa. O usuário deve fornecer o peso em quilogramas e a altura em metros. 
+
 x = float(input("peso em kg = "))
 y = float(input("altura em metros =  "))
 imc = x/y**2
