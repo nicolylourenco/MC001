@@ -1,0 +1,11 @@
+# Exercício 5 - Troca de Horas e Minutos
+
+# Crie um programa que permita ao usuário inserir uma quantidade de minutos e converta essa quantidade em horas e minutos
+
+# O programa deve fazer a conversão usando a divisão inteira e o operador de resto da divisão, sem o uso de condicionais. 
+# Em seguida, deve exibir o resultado na forma "X horas e Y minutos".
+
+x = int(input("Quantidade de minutos = "))
+conversao = x//60
+conversao2 = x%60
+print("Horário =", conversao, "Horas e", conversao2, "Minutos")
