@@ -1,4 +1,6 @@
-# Exercício 1 
+# Exercício 1 - Cálculo de Área de um Retângulo
+# Um programa que solicita ao usuário a largura e a altura de um retângulo e, em seguida, calcula a área desse retângulo e imprime o resultado na tela.
+
 x = float(input("base do retangulo: "))
 y =  float(input("altura do retangulo: "))
 multiplicacao = x*y
