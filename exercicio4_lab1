@@ -1,7 +1,7 @@
 # Exercício 4 - Calculadora de Desconto em Compras
 
-# Cria um programa que simule uma calculadora de desconto em compras.
-# O usuário deve inserir o preço original do produto e o percentual de desconto a ser aplicado. O programa deve calcular o valor final após o desconto e exibir na tela.
+# Cria um programa que simula uma calculadora de desconto em compras.
+# O usuário deve inserir o preço original do produto e o percentual de desconto a ser aplicado. O programa calcula o valor final após o desconto e exibe na tela.
 
 x = float(input("Valor da compra =  "))
 y = float(input("Porcentagem de desconto = "))
