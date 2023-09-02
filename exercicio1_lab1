@@ -1,4 +1,4 @@
-# Exercício 1 - 
+# Exercício 1 
 x = float(input("base do retangulo: "))
 y =  float(input("altura do retangulo: "))
 multiplicacao = x*y
