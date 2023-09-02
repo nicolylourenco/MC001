@@ -1,4 +1,6 @@
-# Exercício 2 
+# Exercício 2 - Conversão de Temperatura
+# Um programa que converte uma temperatura em graus Celsius para Fahrenheit.
+
 print("Conversor de Celsius para Fahrenheit")
 x = float(input("Valor Celsius:"))
 y = float(x*1.8+32)
