@@ -1,0 +1,5 @@
+# Exercício 3, calculando o IMC
+x = float(input("peso em kg = "))
+y = float(input("altura em metros =  "))
+imc = x/y**2
+print("Seu IMC é = " , imc)
