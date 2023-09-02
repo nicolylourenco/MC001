@@ -1,0 +1,6 @@
+# Exercício 4
+x = float(input("Valor da compra =  "))
+y = float(input("Porcentagem de desconto = "))
+desconto = x*y/100
+print("Valor do desconto = ", desconto)
+print("Valor  Final = ", x - desconto)
