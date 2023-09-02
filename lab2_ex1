@@ -1,0 +1,17 @@
+# Exercício 1, lab2 
+# Utilizando o operador artmetico **, este programa imprime na tela todas as potências no intervalo de [2, 10] para um número de entrada n entre [2 a 9]
+
+numero = int(input("Digite um número entre 2 e 9: "))
+if 2 <= numero <= 9:
+    print(f"Potências de {numero} no intervalo [2, 10]:")
+    print(numero**2)
+    print(numero**3)
+    print(numero**4)
+    print(numero**5)
+    print(numero**6)
+    print(numero**7)
+    print(numero**8)
+    print(numero**9)
+    print(numero**10)
+else:
+    print("O número digitado está fora do intervalo permitido.")
